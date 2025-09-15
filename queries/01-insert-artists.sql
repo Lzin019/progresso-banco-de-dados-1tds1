@@ -1,4 +1,3 @@
---Query para criação da tabela--
 CREATE TABLE artistas (
     id INT PRIMARY KEY NOT NULL,
     nome VARCHAR(100) NOT NULL,
