@@ -6,7 +6,7 @@ Este repositório está em constante evolução. Abaixa estão as principais atu
 - **CREATE**: Adição de novos registros ao banco de dados.
 - **READ**: Consulta os dados gravados no banco
 
-🎯 Problematização 1: Aula Expositiva
+# 🎯 Problematização 1: Aula Expositiva
 
 "Modernização do Sistema de Streaming GameFlix"
 
